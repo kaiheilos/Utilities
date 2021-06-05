@@ -1,8 +1,6 @@
 # Unreal Engine Uasset Viewer/Editor
 
-## NoSave Versions is a WIP for 4.11 compatability
-
-## Normal version works with versions 4.13 - 4.25
+## Works with assets from engine versions 4.11 - 4.25
 
 ## 4.26 and 5.00 compatability is being worked on.
 
