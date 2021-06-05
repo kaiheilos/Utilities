@@ -1,3 +1,5 @@
+## MetaData.json file for use with State of decay 2 Mod Manager
+
 # Unreal Engine Uasset Viewer/Editor
 
 ## Works with assets from engine versions 4.11 - 4.25
