@@ -2,9 +2,9 @@
 
 # Unreal Engine Uasset Viewer/Editor
 
-## Works with assets from engine versions 4.11 - 4.25
+## Can unpack and read/edit assets from engine versions 4.11 - 4.26
 
-## 4.26 and 5.00 compatability is being worked on.
+## 5.00 compatability is being worked on.
 
 A tool for viewing and editing the data in uasset/uexp/umap files from games made in unreal engine.
 
