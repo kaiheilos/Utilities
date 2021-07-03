@@ -1,0 +1,29 @@
+{
+    "author": "PersonWhoMadeTheMod",
+    "display_name": "A really cool super mod name",
+    "pak_name": "ModFileName",
+    "version": "1.0.0",
+    "description": "Makes all the things work for the tooltip",
+    "modLink": "https://www.nexusmods.com/stateofdecay2/mods/96",
+    "spawn_actor": [
+        "/Game/ModIndex/Index2",
+    ],
+    "new_outfit": [
+        "/Game/Art/Characters/Outfits/Items/Bodies/Generated/Military/ArmyCamoMilitary/ArmyCamoMilitary"
+    ],
+    "new_facility": [
+        [ "/Game/GameSystems/Facility/FacilityTypes/Armory/Armory", "CRAFTING AND BUILDING" ],
+        [ "/Game/GameSystems/Facility/FacilityTypes/ResourceCheat/ResourceCheat", "TEST FACILITIES" ]
+    ],
+    "new_item": [
+        "/Game/Items/RangedWeapons/Revolver_SP101DA",
+        "/Game/Items/CloseCombatItems/CloseCombat_Police_Knife"
+    ],
+    "new_skill": [
+        "/Game/GameSystems/Skills/QuirkSkills/FishingDefinition",
+        "/Game/GameSystems/Skills/WitsSpecialties/HL_VigilanceDefinition"
+    ],
+    "new_enclave": [
+        "/Game/GameSystems/EnclaveGeneration/Enclaves/AmbientEnclaves/AmbientEnclave_Exactly06"
+    ]
+}
