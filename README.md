@@ -13,4 +13,4 @@ Also able to unpack and create new pak files
 Originally built with lots of feedback and testing from the [State of Decay 2 Modding Discord]( https://discord.gg/emhxg5d )
 
 If you find the tool helpful and wish to help support my work, feedback, suggestions and constructive criticism are always welcome.
-You can also donate via my [paypal](https://www.paypal.com/paypalme/KaiHeilos) or [pateron](https://www.patreon.com/kaiheilos)
+You can also donate via my [paypal](https://www.paypal.com/paypalme/KaiHeilos)
