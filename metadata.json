@@ -9,7 +9,9 @@
         "/Game/ModIndex/Index2",
     ],
     "new_outfit": [
-        "/Game/Art/Characters/Outfits/Items/Bodies/Generated/Military/ArmyCamoMilitary/ArmyCamoMilitary"
+        [ "/Game/Art/Characters/Outfits/Items/Bodies/Generated/Military/ArmyCamoMilitary/ArmyCamoMilitary", "0" ],
+        [ "/Game/Art/Characters/Outfits/Items/Bodies/Generated/Military/ArmyCamoMilitary/ArmyCamo", "1" ],
+        [ "/Game/Art/Characters/Outfits/Items/Bodies/Generated/Military/ArmyCamoMilitary/ArmyOrange", "2" ]
     ],
     "new_facility": [
         [ "/Game/GameSystems/Facility/FacilityTypes/Armory/Armory", "CRAFTING AND BUILDING" ],
