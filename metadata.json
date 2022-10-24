@@ -14,8 +14,8 @@
         [ "/Game/Art/Characters/Outfits/Items/Bodies/Generated/Military/ArmyCamoMilitary/ArmyOrange", "2" ]
     ],
     "new_facility": [
-        [ "/Game/GameSystems/Facility/FacilityTypes/Armory/Armory", "CRAFTING AND BUILDING" ],
-        [ "/Game/GameSystems/Facility/FacilityTypes/ResourceCheat/ResourceCheat", "TEST FACILITIES" ]
+        [ "/Game/GameSystems/Facility/FacilityTypes/Armory/Armory", "CRAFTING AND BUILDING", "Main|Green|Heart" ],
+        [ "/Game/GameSystems/Facility/FacilityTypes/ResourceCheat/ResourceCheat", "TEST FACILITIES", "Heart" ]
     ],
     "new_item": [
         "/Game/Items/RangedWeapons/Revolver_SP101DA",
