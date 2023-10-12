@@ -27,5 +27,8 @@
     ],
     "new_enclave": [
         "/Game/GameSystems/EnclaveGeneration/Enclaves/AmbientEnclaves/AmbientEnclave_Exactly06"
+    ],
+    "new_survivor": [
+        "HumanFemaleArmy_v15", "f"
     ]
 }
